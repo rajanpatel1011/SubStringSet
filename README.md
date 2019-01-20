@@ -1,5 +1,5 @@
 # SubStringSet
-unique set of the string char
+unique and sorted set of the string char
 
 inout -> abab
 
